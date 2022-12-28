@@ -1,0 +1,9 @@
+[submodule ".config/awesome/modules/keynav"]
+	path = .config/awesome/modules/keynav
+	url = https://github.com/garado/awesome-keynav.git
+[submodule ".config/awesome/modules/bling"]
+	path = .config/awesome/modules/bling
+	url = https://github.com/garado/bling.git
+[submodule ".config/awesome/modules/fzy-lua"]
+	path = .config/awesome/modules/fzy-lua
+	url = https://github.com/swarn/fzy-lua.git

@@ -45,7 +45,7 @@ return function(s)
       --    shape_border_width = 1,
       --    shape_border_color = '#777777',
         shape  = function(cr, width, height)
-                   gears.shape.rounded_rect(cr, width, height, 8)
+                   gears.shape.rounded_rect(cr, width, height, 4)
                  end,
       },
       layout   = {

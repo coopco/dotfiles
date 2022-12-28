@@ -19,3 +19,4 @@ awful.screen.connect_for_each_screen(function(s)
   layoutlist(s)
   daily_briefing()
 end)
+

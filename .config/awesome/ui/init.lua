@@ -1,4 +1,5 @@
 require(... .. ".notifications")
+require(... .. ".titlebars")
 
 local bar = require(... .. ".bar")
 local taskbar = require(... .. ".taskbar")
@@ -19,4 +20,3 @@ awful.screen.connect_for_each_screen(function(s)
   layoutlist(s)
   daily_briefing()
 end)
-

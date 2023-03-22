@@ -1,0 +1,29 @@
+[Added Associations]
+application/pdf=firefox-developer-edition.desktop;
+text/plain=firefox-developer-edition.desktop;
+text/x-bibtex=wine-extension-txt.desktop;
+application/x-tex=firefox-developer-edition.desktop;
+text/x-tex=visual-studio-code.desktop;wine-extension-txt.desktop;
+x-scheme-handler/rdp=org.remmina.Remmina.desktop;
+x-scheme-handler/spice=org.remmina.Remmina.desktop;
+x-scheme-handler/vnc=org.remmina.Remmina.desktop;
+x-scheme-handler/remmina=org.remmina.Remmina.desktop;
+application/x-remmina=org.remmina.Remmina.desktop;
+
+[Default Applications]
+image/png=ristretto.desktop
+image/jpeg=ristretto.desktop
+text/html=firefox-developer-edition.desktop
+x-scheme-handler/http=firefox-developer-edition.desktop
+x-scheme-handler/https=firefox-developer-edition.desktop
+x-scheme-handler/about=firefox-developer-edition.desktop
+x-scheme-handler/unknown=firefox-developer-edition.desktop
+x-scheme-handler/org-protocol=emacsclient.desktop
+x-scheme-handler/rdp=org.remmina.Remmina.desktop
+x-scheme-handler/spice=org.remmina.Remmina.desktop
+x-scheme-handler/vnc=org.remmina.Remmina.desktop
+x-scheme-handler/remmina=org.remmina.Remmina.desktop
+application/x-remmina=org.remmina.Remmina.desktop
+x-scheme-handler/discord-725763266110029964=discord-725763266110029964.desktop
+x-scheme-handler/discord-402572971681644545=discord-402572971681644545.desktop
+application/pdf=zathura.desktop
